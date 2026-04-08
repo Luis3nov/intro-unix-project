@@ -1,4 +1,6 @@
 **Reflection:**
+
+
 In this project, we learned that digital security is not just about technology. It also depends on how people use their devices. Concepts like encryption, hashes, and entropy show that we need good systems and smart decisions to stay safe. Also, real cases show that if we do not check information, we can have serious problems. We also learned that privacy is different in every service and country. Even with encryption, some information like metadata is still visible. This shows that security and privacy are difficult topics, and we must be very careful and responsible with our data.
 **Questions and answers:**
 1. **What is asymmetric encryption and how does it work in GPG? Difference between encrypting and signing a message.**

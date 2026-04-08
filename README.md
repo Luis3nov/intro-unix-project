@@ -1,5 +1,5 @@
 # intro-unix-proyecto1
-Our Firts proyect
+FINAL PROJECT
 
 Members
 Ariel Yumbillo
@@ -19,4 +19,4 @@ ProtonMail Helps us to send encrypt messagess for other people.
 Implement a security linux in our devices.
 Apply entropy in our password for more security.
 Analyze the Avalanche Effect in cryptographic hashes (SHA-256) and perform password audit tests using Hashcat.
-Send verify infromation with a sign and using good practices.
+Send verify information with a sign and using good practices.

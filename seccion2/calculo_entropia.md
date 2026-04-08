@@ -1,5 +1,4 @@
 # Section 2: Entropy Calculations
-
-This is the evidence for the entropy manual calculations.
-
-![Entropy Calculation Evidence](Imagen1.jpg)
+In this section we have how calculate the entropy with a calculator?
+The formula that we use here is:H = L × log2(N)
+In Evidence1.jpg we have the manually calculate.

@@ -17,9 +17,11 @@ What is filesystem-level encryption?
 How the name said “files encryption”, each file will be encrypted when we do this, we have a password that help us to decrypt the file, the file is in binary and random characters.
 According to Everpure (s.f) “With file-level encryption, also known as file-based encryption or filesystem-level encryption, individual files and folders stored on a local device or network storage may be encrypted without needing to encrypt the entire storage medium itself. Encrypted files look like a long string of random characters, but the key used to encrypt files will translate the characters to the file’s original state.”
 	FDE	FDI
-**Advantages of FDE** Complete disk security.
-Save all the information in the disk.
-Protection Against Physical Theft
+**Advantages of FDE**
+
+- Complete disk security.
+- Save all the information in the disk.
+- Protection Against Physical Theft.
 **Adventages of FDI**If you can encrypt each file, or customize each file with security you can use FDI, each file will be encrypted in binary and Different users can have different keys. User A cannot decrypt User B’s files even if the system is running and User A is logged in.
 **1 limitation of FDE**	You can not customize each disk o file, is all the information or nothing.	
 **2 limitation of FDE**	It requires user intervention (entering a passphrase) before the OS can even start, which can be problematic for remote servers that need to reboot automatically.
